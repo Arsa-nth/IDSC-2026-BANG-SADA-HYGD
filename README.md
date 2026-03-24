@@ -6,6 +6,12 @@
 
 This repository contains a high-performance Deep Learning implementation for early Glaucoma detection using the **HYGD (Hillel-Yaffe Glaucoma Dataset)** from PhysioNet. Developed by team **BANG SADA** for the **IDSC 2026** competition.
 
+## 👥 Team Members (BANG SADA)
+1. **Nathanael Komang Bagus Prakarsa**
+2. **Bonfilio Renato Lawaziduhu Fau**
+3. **Adinda Sekaring Wana**
+4. **Keenan Gadi Palwono**
+
 ## 🚀 Technical Architecture
 The system utilizes a state-of-the-art ensemble approach tailored for medical imaging:
 * **Backbone Ensemble:** A hybrid fusion of **EfficientNet-B4** and **ConvNeXt-Base**.
@@ -22,13 +28,13 @@ Based on the final notebook execution:
 
 ## 🛠️ Project Structure
 The notebook is organized into 13 comprehensive sections:
-1.  **Configuration & Imports:** Environment setup (PyTorch, Timm, Albumentations).
-2.  **Dataset Load & Sanity Check:** Ensuring data integrity from PhysioNet.
-3.  **EDA (Exploratory Data Analysis):** Dataset-level and single-image level analysis (EDA 1-20).
-4.  **Preprocessing Pipeline:** Medical-grade augmentation and normalization.
-5.  **Model Components:** Architecture definition and custom loss functions.
-6.  **Training Stage:** From ResNet-50 baseline to advanced transformer-based models.
-7.  **Inference & Explainability:** Visualizing decision-making through **Grad-CAM** (heatmaps showing retinal areas used for diagnosis).
+1. **Configuration & Imports:** Environment setup (PyTorch, Timm, Albumentations).
+2. **Dataset Load & Sanity Check:** Ensuring data integrity from PhysioNet.
+3. **EDA (Exploratory Data Analysis):** Dataset-level and single-image level analysis (EDA 1-20).
+4. **Preprocessing Pipeline:** Medical-grade augmentation and normalization.
+5. **Model Components:** Architecture definition and custom loss functions.
+6. **Training Stage:** From ResNet-50 baseline to advanced transformer-based models.
+7. **Inference & Explainability:** Visualizing decision-making through **Grad-CAM** (heatmaps showing retinal areas used for diagnosis).
 
 ## 🖥️ Getting Started
 ### Prerequisites
