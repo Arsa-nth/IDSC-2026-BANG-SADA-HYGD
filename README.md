@@ -6,6 +6,10 @@
 
 This repository contains a high-performance Deep Learning implementation for early Glaucoma detection using the **HYGD (Hillel-Yaffe Glaucoma Dataset)** from PhysioNet. Developed by team **BANG SADA** for the **IDSC 2026** competition.
 
+## 📖 Quick View (Recommended)
+If GitHub has trouble rendering the notebook due to its size, you can view the full version with all outputs (graphs, Grad-CAM, and results) here:
+👉 **[View Notebook on NBViewer](https://nbviewer.org/github/Arsa-nth/IDSC-2026-BANG-SADA-HYGD/blob/main/IDSC%202026_BANG%20SADA_HYGD.ipynb)**
+
 ## 👥 Team Members (BANG SADA)
 1. **Adinda Sekaring Wana**
 2. **Bonfilio Renato Lawaziduhu Fau**
