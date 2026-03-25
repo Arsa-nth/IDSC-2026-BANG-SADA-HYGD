@@ -1,0 +1,19 @@
+# Data Manipulation & Scientific Computing
+numpy
+pandas
+scipy
+
+# Deep Learning & Computer Vision
+torch
+torchvision
+timm
+opencv-python
+albumentations
+
+# Machine Learning & Evaluation
+scikit-learn
+
+# Visualization & Logging
+matplotlib
+seaborn
+tqdm
